@@ -6,7 +6,7 @@ Os motores locais que o [Dita](https://usedita.com) baixa quando você escolhe
 `llama-server` do [llama.cpp](https://github.com/ggml-org/llama.cpp)),
 compilados sem modificação de código, estáticos, assinados com o Developer ID
 do Dita e notarizados pela Apple. Um pacote por arquitetura, em
-[Releases](https://github.com/lucianoiw/dita-engines/releases).
+[Releases](https://github.com/usedita/dita-engines/releases).
 
 Este repositório existe só para hospedar os pacotes e o `manifest.json`
 (versões, URLs e sha256), que o app confere antes de usar qualquer arquivo.

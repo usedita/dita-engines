@@ -3,12 +3,12 @@
   "engines": {
     "version": "2026.09.1",
     "arm64": {
-      "url": "https://github.com/lucianoiw/dita-engines/releases/download/engines-2026.09.1/dita-engines-2026.09.1-arm64.tar.gz",
+      "url": "https://github.com/usedita/dita-engines/releases/download/engines-2026.09.1/dita-engines-2026.09.1-arm64.tar.gz",
       "sha256": "2713f36bdc9a8fe1ba82e0f1ae688c0883d2549e72a0e41e9899eb60d98cb642",
       "bytes": 8968053
     },
     "x86_64": {
-      "url": "https://github.com/lucianoiw/dita-engines/releases/download/engines-2026.09.1/dita-engines-2026.09.1-x86_64.tar.gz",
+      "url": "https://github.com/usedita/dita-engines/releases/download/engines-2026.09.1/dita-engines-2026.09.1-x86_64.tar.gz",
       "sha256": "b3c1f08c46424a4befd4191140d1baf1a0244a6feb7a2659f6773243aa796fbb",
       "bytes": 9241997
     }
